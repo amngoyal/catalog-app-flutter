@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "7a46bb1b611cf082e0c650f053ba119c"
+build_time: [1629818353, 672103000]
+inputs:
+  "/Users/aman/Music/flutter_application/macos/Runner/MainFlutterWindow.swift": [1625178393, 0]
+  "/Users/aman/Music/flutter_application/macos/Runner/AppDelegate.swift": [1625178393, 0]
+  "/Users/aman/Music/flutter_application/macos/Flutter/GeneratedPluginRegistrant.swift": [1629818280, 196380472]
